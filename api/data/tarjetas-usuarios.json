@@ -1,0 +1,29 @@
+[
+    {
+        "name": "DaimoXD",
+        "bio": "Iniciante en la programacion :D",
+        "avatarUrl": "https:\/\/avatars.githubusercontent.com\/u\/83364001?v=4",
+        "color": "#3bf751",
+        "id": "user_6abfc6c736034",
+        "createdAt": "2026-10-02 08:59:19",
+        "usuario_id": null
+    },
+    {
+        "name": "Cristian Abril Fregoso Castor",
+        "bio": "-Dise\u00f1o grafico\r\n-Escritura\r\n-Programar videojuegos\r\n-Edici\u00f3n",
+        "avatarUrl": "https:\/\/avatars.githubusercontent.com\/u\/238565432?v=4",
+        "color": "#55ce99",
+        "id": "user_6abfc6f90dc70",
+        "createdAt": "2026-10-02 09:00:09",
+        "usuario_id": null
+    },
+    {
+        "name": "John James ",
+        "bio": "Making @WordPress \ud83d\udc99 @buddypress \ud83e\udde1 and @bbpress \ud83d\udc9a for @Awesom",
+        "avatarUrl": "src\/assents\/avatar3.jpg",
+        "color": "#49a621",
+        "id": "user_6ac507d92df43",
+        "createdAt": "2026-10-06 08:38:17",
+        "usuario_id": null
+    }
+]
